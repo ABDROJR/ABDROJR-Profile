@@ -1,18 +1,22 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm ABDROJR</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdrojr&label=Profile%20views&color=0e75b6&style=flat" alt="abdrojr" /> </p>
 
 - 🌱 I’m currently learning **Frontend development course**
+
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABDROJR](https://github.com/ABDROJR)
 
 - 💬 Ask me about **Html,Css,Javascript,Python,C++,OOP in C++,C**
 
 - 📫 How to reach me **hafizabdullah.munawar786@gmail.com**
+
+- 📄 Know about my experiences [https://pdf.ac/3dFjyU](https://pdf.ac/3dFjyU)
+
+- ⚡ Fun fact **I think I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
