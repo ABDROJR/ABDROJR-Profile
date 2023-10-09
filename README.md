@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://pdf.ac/3dFjyU](https://pdf.ac/3dFjyU)
 
-- ⚡ Fun fact **I think I am Batman**
+- ⚡ Fun fact **I think I am Goku**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
