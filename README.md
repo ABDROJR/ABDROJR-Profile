@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABDROJR</h1>
-<h3 align="center">A passionate Web Developer </h3>
+<h3 align="center">Web Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdrojr&label=Profile%20views&color=0e75b6&style=flat" alt="abdrojr" /> </p>
